@@ -62,4 +62,4 @@ Keyboard.current.sKey.wasPressedThisFrame
 
 ## 📝 関連記事
 
-（note記事URLをここに追加予定）
+[note記事：Unityで横長Cubeの左端、右端を回転軸にして回転する操作](https://note.com/inu94suno/n/n605e5fc46164)
